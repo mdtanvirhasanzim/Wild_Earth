@@ -38,7 +38,7 @@ p{color:var(--muted)}
 .nav-links a:hover:after,.nav-links a.active:after{width:100%}
 .nav-toggle{display:none;background:none;border:0;color:var(--text);font-size:1.4rem}
 .hero{min-height:100vh;display:grid;place-items:center;position:relative;overflow:hidden;background:#111}
-.hero-bg{position:absolute;inset:-4%;background:url('https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=2200&q=85') center/cover;transform:scale(1.04);will-change:transform}
+.hero-bg{position:absolute;inset:-4%;background:url('https://i.pinimg.com/736x/e0/4c/37/e04c3716931de0244a2ba97bbfda2878.jpg') center/cover;transform:scale(1.04);will-change:transform}
 .hero:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.72),rgba(0,0,0,.22) 65%,rgba(0,0,0,.48)),linear-gradient(0deg,rgba(0,0,0,.5),transparent 40%)}
 .hero-content{position:relative;z-index:2;width:min(100% - 48px,1240px);margin:auto;padding-top:80px}
 .hero-content p{max-width:570px;margin:26px 0 32px;font-size:1rem}
@@ -67,7 +67,7 @@ p{color:var(--muted)}
 .stat{border-top:1px solid var(--line);padding-top:15px}
 .stat strong{display:block;font-family:"Playfair Display";font-size:2rem;color:var(--text)}
 .stat span{font-size:.68rem;text-transform:uppercase;letter-spacing:.12em;color:var(--muted)}
-.quote{padding:130px 0;text-align:center;background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.75)),url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=2200&q=80') center/cover fixed}
+.quote{padding:130px 0;text-align:center;background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.75)),url('https://i.pinimg.com/736x/1d/ee/b7/1deeb77bcb5a149e0e0429cfb009ba68.jpg') center/cover fixed}
 .quote blockquote{max-width:900px;margin:auto;font-family:"Playfair Display";font-size:clamp(2rem,4vw,4rem);line-height:1.18}
 .quote cite{display:block;margin-top:25px;font:600 .68rem Inter;text-transform:uppercase;letter-spacing:.2em;color:var(--accent)}
 .page-hero{min-height:55vh;display:grid;place-items:end;padding:150px 0 70px;position:relative;background-size:cover;background-position:center}
