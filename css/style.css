@@ -170,3 +170,4 @@ p{color:var(--muted)}
 }
 @media(pointer:fine){.cursor-dot{display:block}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+
